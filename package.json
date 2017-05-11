@@ -1,0 +1,19 @@
+{
+  "name": "imageresize",
+  "version": "0.0.0",
+  "description": "image resize practice.",
+  "author": "jerry771230",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^1.1.1",
+    "image-size": "^0.5.1",
+    "jimp": "^0.2.27",
+    "mkdirp": "^0.5.1"
+  },
+  "main": "./app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "changeConfig": ""
+  }
+}
